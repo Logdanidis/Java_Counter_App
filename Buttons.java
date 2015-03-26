@@ -38,7 +38,7 @@ public class Buttons extends JFrame{
 
         button2.addActionListener(new resetButton());
         add(button2);
-        //add(counter); Don't need use cz exist already
+     
     }
 
     public class EnableButton implements ActionListener
